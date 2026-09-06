@@ -33,7 +33,7 @@ groq_api=your_groq_api_key_here
 ### 2. Run the Server
 Start the FastMCP server:
 ```bash
-python server.py
+fastmcp run server.py
 ```
 
 ### 3. Run the AI Host
