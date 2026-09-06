@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "expense-tracker": {
+      "command": "C:\\Users\\HP\\Desktop\\mcp\\env\\Scripts\\python.exe",
+      "args": [
+        "C:\\Users\\HP\\Desktop\\mcp\\expense_tracker\\server.py"
+      ]
+    }
+  }
+}
